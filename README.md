@@ -2,7 +2,7 @@
 
 - 🌱 Estou aprendendo JavaScript e React.js
 - 🤔 Estou procurando ajuda sobre desenvolvimento web / designer
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/CaioRdX">
